@@ -1,4 +1,2 @@
 #!/bin/bash
-echo hello $USER
-alias lm ='rm*'
-alias ls ='rm*'
+u = '' echo 'hello u'
